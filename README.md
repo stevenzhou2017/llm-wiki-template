@@ -13,7 +13,7 @@
 ### 1. 克隆模板
 
 ```bash
-git clone https://github.com/nameczz/llm-wiki-template.git my-wiki
+git clone https://github.com/stevenzhou2017/llm-wiki-template.git my-wiki
 cd my-wiki
 ```
 
