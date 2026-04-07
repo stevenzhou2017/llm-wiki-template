@@ -1,7 +1,7 @@
 ---
 title: RAG (检索增强生成)
-created: 2026-04-06
-updated: 2026-04-06
+created: 2026-04-07
+updated: 2026-04-07
 tags: [AI, 知识管理, 检索, LLM]
 sources: [karpathy-llm-wiki.md]
 ---
