@@ -1,7 +1,7 @@
 ---
 title: AI 辅助编程
-created: 2026-04-06
-updated: 2026-04-06
+created: 2026-04-07
+updated: 2026-04-07
 tags: [AI, 编程, 工具, 趋势]
 sources: [karpathy-vibe-coding.md]
 ---
