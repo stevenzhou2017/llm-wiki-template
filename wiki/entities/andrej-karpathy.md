@@ -1,7 +1,7 @@
 ---
 title: Andrej Karpathy
-created: 2026-04-06
-updated: 2026-04-06
+created: 2026-04-07
+updated: 2026-04-07
 tags: [人物, AI, 深度学习, Tesla, OpenAI]
 sources: [karpathy-llm-wiki.md, karpathy-vibe-coding.md]
 ---
