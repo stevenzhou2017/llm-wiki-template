@@ -1,7 +1,7 @@
 ---
 title: "LLM Wiki: 用 LLM 构建个人知识库的模式"
-created: 2026-04-06
-updated: 2026-04-06
+created: 2026-04-07
+updated: 2026-04-07
 tags: [知识管理, LLM, wiki, RAG, Obsidian]
 sources: [karpathy-llm-wiki.md]
 ---
