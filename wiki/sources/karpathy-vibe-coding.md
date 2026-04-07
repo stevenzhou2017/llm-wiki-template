@@ -1,7 +1,7 @@
 ---
 title: "Vibe Coding: 氛围编程"
-created: 2026-04-06
-updated: 2026-04-06
+created: 2026-04-07
+updated: 2026-04-07
 tags: [编程方式, LLM, AI辅助编程, vibe-coding]
 sources: [karpathy-vibe-coding.md]
 ---
