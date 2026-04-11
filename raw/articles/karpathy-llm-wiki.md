@@ -1,4 +1,4 @@
-# LLM Wiki
+# LLM Wiki @Karpathy
 
 A pattern for building personal knowledge bases using LLMs.
 
