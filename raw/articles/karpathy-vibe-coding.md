@@ -1,4 +1,4 @@
-# Vibe Coding
+# Vibe Coding @Karpathy
 
 **Author:** Andrej Karpathy (@karpathy)
 **Date:** 2025-02-02
